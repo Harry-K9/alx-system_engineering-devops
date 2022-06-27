@@ -1,0 +1,2 @@
+#!/bin/bah
+cut -d":" --fields=1,6 /etc/passwd | sort
